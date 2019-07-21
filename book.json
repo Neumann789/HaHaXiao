@@ -1,0 +1,70 @@
+{
+  "bookAlias": "HaHaXiao",
+  "bookCover": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563263131269&di=83c58e4165f85526da96b9f8f3d3d731&imgtype=jpg&src=http%3A%2F%2Fimg1.imgtn.bdimg.com%2Fit%2Fu%3D1874827096%2C87587838%26fm%3D214%26gp%3D0.jpg",
+  "bookName": "哈哈笑",
+  "bookJsonPath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/book.json",
+  "bookPath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao",
+  "chapterList": [
+    {
+      "name": "前言",
+      "filePath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/QianYan_20550118",
+      "elements": []
+    },
+    {
+      "name": "目录",
+      "filePath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/MuLu_20550040",
+      "elements": []
+    },
+    {
+      "name": "第一章",
+      "filePath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/DiYiZhang_20550045",
+      "elements": [
+        {
+          "name": "第一节",
+          "filePath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/DiYiJie_20550135",
+          "elements": []
+        },
+        {
+          "name": "第二节",
+          "filePath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/DiErJie_20550143",
+          "elements": []
+        },
+        {
+          "name": "第三节",
+          "filePath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/DiSanJie_20550151",
+          "elements": []
+        }
+      ]
+    },
+    {
+      "name": "第二章",
+      "filePath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/DiErZhang_20550054",
+      "elements": []
+    },
+    {
+      "name": "第三章",
+      "filePath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/DiSanZhang_20550059",
+      "elements": []
+    },
+    {
+      "name": "第四章",
+      "filePath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/DiSiZhang_20550105",
+      "elements": []
+    },
+    {
+      "name": "第五章",
+      "filePath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/DiWuZhang_2124",
+      "elements": []
+    },
+    {
+      "name": "第六章",
+      "filePath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/DiLiuZhang_2127",
+      "elements": []
+    },
+    {
+      "name": "第七章",
+      "filePath": "/Users/xmly/Library/Application Support/Electron/bookworm/HaHaXiao/DiQiZhang_2019720115656",
+      "elements": []
+    }
+  ]
+}
